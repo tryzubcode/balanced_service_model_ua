@@ -6,6 +6,6 @@ What if Ukraine introduced a legal opt-out system for military service that fund
 ## How to Contribute
 We welcome constructive suggestions, edits, and critiques.
 
-Fork this repository
-Make your edits
+Fork this repository ->
+Make your edits ->
 Open a Pull Request
